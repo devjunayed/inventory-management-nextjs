@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stack-auth": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.stack-auth.com"]
+    }
+  }
+}
