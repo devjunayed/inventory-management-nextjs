@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+https://www.youtube.com/watch?v=L5CsIkO5xv4&list=PPSV
+
+
+
+Video time 35:45s
+
 ## Getting Started
 
 First, run the development server:

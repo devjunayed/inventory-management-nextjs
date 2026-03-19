@@ -8,5 +8,5 @@ export default function SignInPage(){
             <SignIn />
             <Link href="/">Go Back Home</Link>
         </div>
-    </div>
+    </div> 
 }
